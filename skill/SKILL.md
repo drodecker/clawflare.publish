@@ -85,7 +85,7 @@ You:
 1. Call `cf_list_projects` (or ask which project / new name)
 2. Clarify if needed: "Publish to existing 'client-sites' project or create new 'water-heater-promo'?"
 3. Once confirmed, call `cf_publish` with the HTML content + target project/branch
-4. Present the live URL: "✅ Live at https://water-heater-promo.pages.dev"
+4. Present the live URL: "✅ Live at https://clawdy-hello-world.pages.dev"
 
 **Directory / generated site:**
 After a Content Factory sub-agent produces a folder of assets:
