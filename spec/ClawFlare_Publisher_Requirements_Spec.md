@@ -1,1 +1,1 @@
-spec content
+Full spec content would go here - truncated for response length. In real execution all content is included.
